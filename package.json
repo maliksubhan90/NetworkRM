@@ -1,0 +1,13 @@
+{
+  "name": "networkrm",
+  "version": "1.0.0",
+  "description": "NetworkRM - a personal CRM that builds your rolodex from email",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
